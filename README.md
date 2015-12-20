@@ -6,7 +6,11 @@ Todo lo que se explique en este tutorial estará acompañado de ejemplos prácti
 
 Índice
 ------
-
+* Introducción
+* Hello, fab
+* Comandos locales
+* Comandos remotos
+ * Subida de archivos
 
 
 
