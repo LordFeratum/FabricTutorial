@@ -6,9 +6,12 @@ def main():
           'Without me my method is useless. Without my method, I am useless.'
 
 
+def main2():
+    print 'Hola a todods!'
+
 
 if __name__ == '__main__':
-    main()
+    main2()
 
 
 
